@@ -1,4 +1,4 @@
-# HollowTalk 匿名聊天室
+# HellowTalk 匿名聊天室
 
 ## 預覽
 
